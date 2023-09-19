@@ -4,7 +4,8 @@ These problem are solved on C Language
 
 ## Problems
 
-- Mid  
+- Mid
+  - Loop 
   - Array
   - Nested Loop
   - 2D Array
