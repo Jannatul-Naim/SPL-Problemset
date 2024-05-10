@@ -17,4 +17,4 @@ These problem are solved on C Language
   - Recursion
 - Project
   - Blood Bank Management System
-  - Office Salary System
+  - Cricket Team Management
